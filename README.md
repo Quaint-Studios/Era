@@ -1,5 +1,5 @@
 # Era
-A Minecraft modpack.
+Advance through time periods by researching together, crafting, and developing civilizations.
 
 ## Roadmap
 
